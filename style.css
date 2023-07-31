@@ -282,6 +282,7 @@ img {
     left: 2%;
     transform: rotate(90deg);
   }
+
   10% {
     top: 6%;
     left: 30%;
@@ -290,12 +291,12 @@ img {
   20% {
     top: 9%;
     left: 60%;
-    transform: rotate(90deg);
+    transform: rotate(4deg);
   }
   30% {
     top: 0%;
     left: 80%;
-    transform: rotate(90deg);
+    transform: rotate(131deg);
   }
   40% {
     top: 20%;
@@ -310,7 +311,7 @@ img {
   60% {
     top: 90%;
     left: 90%;
-    transform: rotate(90deg);
+    transform: rotate(170deg);
   }
   70% {
     top: 110%;
@@ -320,16 +321,16 @@ img {
   80% {
     top: 85%;
     left: 30%;
-    transform: rotate(90deg);
+    transform: rotate(357deg);
   }
   90% {
     top: 50%;
     left: 15%;
-    transform: rotate(90deg);
+    transform: rotate(298deg);
   }
   100% {
     top: 2%;
     left: 2%;
-    transform: rotate(90deg);
+    transform: rotate(359deg);
   }
 }
